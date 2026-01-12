@@ -1,0 +1,41 @@
+{
+  "@@locale": "en",
+  "appName": "Finance Manager",
+  "@appName": {
+    "description": "The name of the application"
+  },
+  "welcomeTitle": "WELCOME TO FINANCE MANAGER",
+  "loginButton": "Login",
+  "signupButton": "Sign Up",
+  "homeTitle": "Overview",
+  "addTransaction": "Add Transaction",
+  "totalIncome": "Total Income",
+  "totalExpense": "Total Expense",
+  "balance": "Current Balance",
+  "settingsTitle": "Settings",
+
+
+  "buttonLogin": "Login",
+  "textFieldEmail": "Email",
+  "textFieldPassword": "Password",
+  "checkboxRememberMe": "Remember me",
+  "buttonForgetPassword": "Forgot Password?",
+  "textSignupPrompt": "Sign up",
+
+
+  "validationEnterEmail": "Please enter your email ID",
+  "validationEnterValidEmail": "Please enter a valid email ID",
+  "validationEnterPassword": "Please enter your password",
+  "validationPasswordLength": "Password must be at least 6 characters long",
+
+
+  "loginSuccess": "Login successful!",
+  "loginVerifyEmailBeforeLogin": "Please verify your email before logging in.",
+  "loginInvalidCredentials": "Invalid email or password. Please try again.",
+  "loginGenericError": "An error occurred during login.",
+
+
+  "forgotPasswordEnterEmail": "Please enter your email to reset your password.",
+  "forgotPasswordEmailSent": "Password reset email has been sent. Please check your inbox.",
+  "forgotPasswordGenericError": "An error occurred while sending the reset email."
+}

@@ -1,0 +1,9 @@
+# L10N Configuration for Finance Manager App
+# This file is configured for default Flutter localization behavior.
+# The 'output-dir' setting has been removed to allow Flutter to
+# automatically manage the generated file location via package:flutter_gen.
+arb-dir: lib/l10n
+template-arb-file: app_en.arb
+output-localization-file: app_localizations.dart
+output-class: AppLocalizations
+# No explicit output-dir is set here. Flutter will handle the generation path.

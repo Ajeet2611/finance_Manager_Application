@@ -1,0 +1,12 @@
+{
+  "@@locale": "hi",
+  "appName": "वित्तीय प्रबंधक",
+  "welcomeTitle": "आपकी वित्तीय यात्रा में आपका स्वागत है।",
+  "loginButton": "लॉग इन करें",
+  "signupButton": "खाता बनाएँ",
+  "homeTitle": "डैशबोर्ड",
+  "totalBalance": "कुल शेष राशि",
+  "settingsTitle": "सेटिंग्स",
+  "themeMode": "थीम मोड",
+  "language": "भाषा"
+}
