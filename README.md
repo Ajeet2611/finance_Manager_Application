@@ -1,4 +1,4 @@
-# 💰 Finance Manager App v3
+# 💰 Finance Manager App
 
 A powerful and intuitive personal finance tracking application built with **Flutter**. This app helps users manage their daily expenses, track budgets, and visualize their spending habits with ease.
 
